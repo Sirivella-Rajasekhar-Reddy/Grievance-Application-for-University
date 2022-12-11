@@ -1,0 +1,6 @@
+
+18-10-2022 07:01:14: ::1 - Grievance - addGrievance - Not prepared
+18-10-2022 07:02:42: ::1 - Grievance - addGrievance - Not prepared
+18-10-2022 07:45:48: ::1 - Statement not executedColumn 'gender' cannot be null
+19-10-2022 06:38:46: ::1 - Viewgrievance - viewGrievByStatus - Prepared Statement ERROR
+19-10-2022 06:38:55: ::1 - Viewgrievance - viewGrievByStatus - Prepared Statement ERROR
